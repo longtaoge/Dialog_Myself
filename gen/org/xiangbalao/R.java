@@ -5,7 +5,7 @@
  * should not be modified by hand.
  */
 
-package org.ym;
+package org.xiangbalao;
 
 public final class R {
     public static final class anim {
